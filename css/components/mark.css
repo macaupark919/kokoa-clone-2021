@@ -1,0 +1,13 @@
+.mark {
+  background-color: white;
+  width: 12px;
+  height: 12px;
+  border: 1px solid tomato;
+  border-radius: 50%;
+  text-align: center;
+  color: tomato;
+  font-weight: 600;
+  position: absolute;
+  margin-left: 7px;
+  font-size: 10px;
+}

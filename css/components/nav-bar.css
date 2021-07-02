@@ -21,9 +21,10 @@
 }
 
 .nav__noti {
-  position: absolute;
   left: 20px;
   bottom: 15px;
+
+  position: absolute;
 }
 
 .nav__dot {
